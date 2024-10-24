@@ -42,4 +42,4 @@ https://github.com/user-attachments/assets/ba8aab97-64b8-4012-92cc-4bf1ebf9b684
 - HTML (para visualizar el proyecto en un navegador)
 
 ## Autor
-Este proyecto ha sido desarrollado por Paola & Harsdeep.
+Este proyecto ha sido desarrollado por Paola & Harshdeep.
